@@ -1,0 +1,26 @@
+{
+  "name": "video-how-to-clone-a-specific-commit-in-git",
+  "version": "1.0.0",
+  "description": "The sample project that complements the video found at: ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://www.ecofic.com/about/blog/how-to-clone-a-specific-commit-in-git/",  
+  "author": {
+    "name" : "Chad Campbell",
+    "email" : "chad.campbell@ecofic.com",
+    "url" : "http://www.ecofic.com/contact/chad-campbell"
+  },  
+  "repository" : {
+    "type":"git",
+    "url":"git://github.com/ecofic/video-how-to-clone-a-specific-commit-in-git"
+  },  
+  "keywords": [
+    "git"
+  ],
+  "licenses": [{
+    "type":"Apache",
+    "url":"http://www.apache.org/licenses/LICENSE-2.0.html"
+  }]  
+}
